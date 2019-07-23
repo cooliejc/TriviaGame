@@ -1,0 +1,7 @@
+body {
+    margin: auto;
+}
+
+#nextQuestion {
+    float: right;
+}
